@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{5586a62d-d47a-0ea4-5e3c-e63d0fd05430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeGallery.Editor", "NativeGallery.Editor.csproj", "{d12a6df6-10bf-2a56-8020-7e8ea5bb1364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeGallery.Runtime", "NativeGallery.Runtime.csproj", "{620d56ca-e1ce-4dc3-7a29-88772813fccb}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5586a62d-d47a-0ea4-5e3c-e63d0fd05430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5586a62d-d47a-0ea4-5e3c-e63d0fd05430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d12a6df6-10bf-2a56-8020-7e8ea5bb1364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d12a6df6-10bf-2a56-8020-7e8ea5bb1364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620d56ca-e1ce-4dc3-7a29-88772813fccb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620d56ca-e1ce-4dc3-7a29-88772813fccb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
